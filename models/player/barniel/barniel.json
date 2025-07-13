@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 1456902037,
 	"events": [
 		{
 			"event": 5011,
@@ -200,7 +202,11 @@
 	],
 	"id": 1414743113,
 	"md5": "78d84aadee5fbfd7e62aa0049870791f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "barniel.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
