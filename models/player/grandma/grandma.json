@@ -20,14 +20,14 @@
 		{
 			"models": [
 				{
-					"name": "../dmatch/gordon/DM_Gordon_Head1",
-					"polys": 362,
-					"verts": 183
+					"name": "../dmatch/gina/DM_Gina_Head1",
+					"polys": 373,
+					"verts": 190
 				}, 
 				{
-					"name": "../dmatch/gordon/Gordon_Hi-ResDM1",
-					"polys": 639,
-					"verts": 343
+					"name": "../dmatch/gina/Gina_Hi-ResDM1",
+					"polys": 654,
+					"verts": 344
 				}
 			],
 			"name": "body"
@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 913926600,
+	"date": 913327078,
 	"events": [
 		{
 			"event": 2001,
@@ -177,12 +177,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "3b564055925e58a772898385bcfcb23c",
+	"md5": "3f01a08379ec095e570315b762ad3db0",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "player/Gordon/Gordon.mdl",
+	"name": "player/gina/Gina.mdl",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -571,7 +571,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 356236,
+	"size": 347608,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -686,48 +686,16 @@
 			"parent": 26
 		}, 
 		{
-			"name": "Dummy08",
-			"parent": 13
-		}, 
-		{
-			"name": "Bone02",
-			"parent": 28
-		}, 
-		{
-			"name": "Dummy04",
-			"parent": 13
-		}, 
-		{
-			"name": "Bone05",
-			"parent": 30
-		}, 
-		{
-			"name": "Dummy03",
-			"parent": 13
-		}, 
-		{
-			"name": "Bone07",
-			"parent": 32
-		}, 
-		{
-			"name": "Dummy10",
-			"parent": 13
-		}, 
-		{
-			"name": "Bone13",
-			"parent": 34
-		}, 
-		{
 			"name": "Bip01 L Finger0",
 			"parent": 17
 		}, 
 		{
 			"name": "Bip01 L Finger01",
-			"parent": 36
+			"parent": 28
 		}, 
 		{
 			"name": "Bip01 L Finger02",
-			"parent": 37
+			"parent": 29
 		}, 
 		{
 			"name": "Bip01 R Finger0",
@@ -735,11 +703,11 @@
 		}, 
 		{
 			"name": "Bip01 R Finger01",
-			"parent": 39
+			"parent": 31
 		}, 
 		{
 			"name": "Bip01 R Finger02",
-			"parent": 40
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -756,6 +724,12 @@
 			"height": 128,
 			"name": "DM_Face.bmp",
 			"width": 128
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "PLAYER_Chrome1.bmp",
+			"width": 64
 		}
 	],
 	"version": 10

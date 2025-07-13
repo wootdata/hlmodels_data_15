@@ -1,0 +1,12 @@
+KIA (Division 2) Model
+======================
+
+Unzip these files (With 'use folder names' enabled) to your 'C:\Sierra\Half-Life' folder.
+
+This model and skin is for use solely by the KIA Half-Life (HLCCL) Clan.
+
+The files within this zip can reside on your machine for the purpose of viewing the correct model worn by KIA2, rather than the default model. You are urged not to use it as a model yourself.
+
+Thanks.
+
+(Model redesign by: Steve Townsend (AKA: [KIA2]-Stig-) Feb 2002)
