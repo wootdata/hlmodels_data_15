@@ -169,6 +169,7 @@
 	"md5": "340cc457132cacd0adb706381f26ff6b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "fox.mdl",
 	"preview": true,
 	"readme": false,
