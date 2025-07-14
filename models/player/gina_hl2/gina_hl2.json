@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 15,
+			"bone": 17,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 15,
+			"bone": 17,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 15,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 11,
+			"bone": 17,
 			"name": "",
 			"type": 0
 		}
@@ -25,15 +20,45 @@
 		{
 			"models": [
 				{
-					"name": "duke",
-					"polys": 950,
-					"verts": 519
+					"name": "body1",
+					"polys": 663,
+					"verts": 364
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "body2",
+					"polys": 1642,
+					"verts": 878
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "body3",
+					"polys": 540,
+					"verts": 311
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "HEV_Gina_head_reference",
+					"polys": 831,
+					"verts": 457
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -68,7 +93,7 @@
 			"type": 8
 		}
 	],
-	"date": 1518191984,
+	"date": 1251236458,
 	"events": [
 		{
 			"event": 2001,
@@ -174,27 +199,13 @@
 			"options": "40",
 			"sequence": 52,
 			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 66,
-			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 68,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "3a241df42b7d0536edce9883936e2100",
+	"md5": "b65cbe512998fbbced6bfe208800f7f3",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "duke.mdl",
+	"name": "Gina.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -202,7 +213,7 @@
 		{
 			"fps": 14.000000,
 			"frames": 31,
-			"name": "Koshak_HL"
+			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
@@ -585,7 +596,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 317948,
+	"size": 701968,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -616,24 +627,16 @@
 			"parent": 5
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 6
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 6
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 8
+			"parent": 7
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 10
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -641,47 +644,75 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 12
+			"parent": 10
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 13
+			"parent": 11
 		}, 
 		{
-			"name": "Bip01 R Hand",
-			"parent": 14
+			"name": "Bip01 Head",
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
-			"name": "Bip01 L Leg1",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Toe0",
-			"parent": 18
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
+			"name": "Bip01 L Hand",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 14
+		}, 
+		{
 			"name": "Bip01 R Leg1",
-			"parent": 20
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 21
+			"parent": 19
 		}, 
 		{
-			"name": "Bip01 R Toe0",
-			"parent": 22
+			"name": "Bip01 L Foot",
+			"parent": 18
+		}, 
+		{
+			"name": "R_eyebrow",
+			"parent": 13
+		}, 
+		{
+			"name": "C_eyebrow",
+			"parent": 13
+		}, 
+		{
+			"name": "L_eyebrow",
+			"parent": 13
+		}, 
+		{
+			"name": "R_eye",
+			"parent": 13
+		}, 
+		{
+			"name": "Eyelids",
+			"parent": 13
+		}, 
+		{
+			"name": "L_eye",
+			"parent": 13
+		}, 
+		{
+			"name": "mouth",
+			"parent": 13
 		}
 	],
 	"skins": 1,
@@ -689,15 +720,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "DM_Base.bmp",
-			"width": 256
+			"height": 512,
+			"name": "hevsuit_sheet.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 64,
-			"name": "duke_misc.bmp",
-			"width": 64
+			"height": 256,
+			"name": "Gina_head.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

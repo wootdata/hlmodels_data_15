@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 15,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 15,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 15,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 11,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}
@@ -25,9 +20,14 @@
 		{
 			"models": [
 				{
-					"name": "duke",
-					"polys": 950,
-					"verts": 519
+					"name": "../redwiz/redwiz_reference",
+					"polys": 1052,
+					"verts": 531
+				}, 
+				{
+					"name": "../redwiz/redwiz_reference",
+					"polys": 1052,
+					"verts": 531
 				}
 			],
 			"name": "body"
@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1518191984,
+	"date": 968285026,
 	"events": [
 		{
 			"event": 2001,
@@ -174,27 +174,13 @@
 			"options": "40",
 			"sequence": 52,
 			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 66,
-			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 68,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "3a241df42b7d0536edce9883936e2100",
+	"md5": "ff99521121e9405b17f55be1024d4bee",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "duke.mdl",
+	"name": "C:\\SIERRA\\Half-Life\\wizwars\\models\\player\\RedWiz\\redwiz.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -202,7 +188,7 @@
 		{
 			"fps": 14.000000,
 			"frames": 31,
-			"name": "Koshak_HL"
+			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
@@ -585,7 +571,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 317948,
+	"size": 306852,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -636,52 +622,68 @@
 			"parent": 10
 		}, 
 		{
+			"name": "Bip01 L Finger0",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 16
+		}, 
+		{
 			"name": "Bip01 R Arm",
 			"parent": 6
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 L Leg1",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Toe0",
 			"parent": 18
 		}, 
 		{
-			"name": "Bip01 R Leg",
-			"parent": 1
+			"name": "Bip01 R Arm2",
+			"parent": 19
 		}, 
 		{
-			"name": "Bip01 R Leg1",
+			"name": "Bip01 R Hand",
 			"parent": 20
 		}, 
 		{
-			"name": "Bip01 R Foot",
+			"name": "Bip01 R Finger0",
 			"parent": 21
 		}, 
 		{
-			"name": "Bip01 R Toe0",
+			"name": "Bip01 R Finger01",
 			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 26
 		}
 	],
 	"skins": 1,
@@ -689,15 +691,51 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "DM_Base.bmp",
-			"width": 256
+			"height": 64,
+			"name": "dm_base.bmp",
+			"width": 128
 		}, 
 		{
 			"flags": 0,
 			"height": 64,
-			"name": "duke_misc.bmp",
+			"name": "red.bmp",
 			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "black.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "grey.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 100,
+			"name": "PLAYER_Face1.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "face.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 100,
+			"name": "PLAYER_FaceSide1.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 40,
+			"name": "PLAYER_FaceTop1.bmp",
+			"width": 36
 		}
 	],
 	"version": 10

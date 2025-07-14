@@ -14,26 +14,41 @@
 			"bone": 15,
 			"name": "",
 			"type": 0
-		}, 
-		{
-			"bone": 11,
-			"name": "",
-			"type": 0
 		}
 	],
 	"bodies": [
 		{
 			"models": [
 				{
-					"name": "duke",
-					"polys": 950,
-					"verts": 519
+					"name": "telo",
+					"polys": 3048,
+					"verts": 2021
 				}
 			],
-			"name": "body"
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "noga1",
+					"polys": 1444,
+					"verts": 1155
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "noga2",
+					"polys": 1444,
+					"verts": 1182
+				}
+			],
+			"name": "studio"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -68,7 +83,7 @@
 			"type": 8
 		}
 	],
-	"date": 1518191984,
+	"date": 1328673174,
 	"events": [
 		{
 			"event": 2001,
@@ -174,28 +189,14 @@
 			"options": "40",
 			"sequence": 52,
 			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 66,
-			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 68,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "3a241df42b7d0536edce9883936e2100",
+	"md5": "e69992a9a3f2f50ba251c3fc8e709a03",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "duke.mdl",
-	"preview": true,
+	"name": "C:\\ut2004_1\\Animations\\gordon\\Resistor_hl.mdl",
+	"preview": false,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
@@ -585,7 +586,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 317948,
+	"size": 651228,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -656,32 +657,24 @@
 			"parent": 1
 		}, 
 		{
-			"name": "Bip01 L Leg1",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Toe0",
-			"parent": 18
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 20
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 21
+			"parent": 18
 		}, 
 		{
-			"name": "Bip01 R Toe0",
-			"parent": 22
+			"name": "Bip01 L Leg1",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 20
 		}
 	],
 	"skins": 1,
@@ -689,14 +682,26 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "DM_Base.bmp",
-			"width": 256
+			"height": 512,
+			"name": "BodyTex.bmp",
+			"width": 512
 		}, 
 		{
-			"flags": 0,
+			"flags": 32,
 			"height": 64,
-			"name": "duke_misc.bmp",
+			"name": "serost.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 32,
+			"height": 64,
+			"name": "red.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 32,
+			"height": 64,
+			"name": "green.bmp",
 			"width": 64
 		}
 	],

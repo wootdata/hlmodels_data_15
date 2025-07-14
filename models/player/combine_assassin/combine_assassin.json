@@ -14,26 +14,41 @@
 			"bone": 15,
 			"name": "",
 			"type": 0
-		}, 
-		{
-			"bone": 11,
-			"name": "",
-			"type": 0
 		}
 	],
 	"bodies": [
 		{
 			"models": [
 				{
-					"name": "duke",
-					"polys": 950,
-					"verts": 519
+					"name": "1",
+					"polys": 1701,
+					"verts": 897
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "2",
+					"polys": 1984,
+					"verts": 1061
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "3",
+					"polys": 2551,
+					"verts": 1302
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -68,7 +83,7 @@
 			"type": 8
 		}
 	],
-	"date": 1518191984,
+	"date": 1294621526,
 	"events": [
 		{
 			"event": 2001,
@@ -174,27 +189,13 @@
 			"options": "40",
 			"sequence": 52,
 			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 66,
-			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 68,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "3a241df42b7d0536edce9883936e2100",
+	"md5": "8b5492ea1aa85b46e0be08309f22949d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "duke.mdl",
+	"name": "Combine_female.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -202,7 +203,7 @@
 		{
 			"fps": 14.000000,
 			"frames": 31,
-			"name": "Koshak_HL"
+			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
@@ -585,7 +586,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 317948,
+	"size": 611556,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -660,28 +661,20 @@
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Foot",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Toe0",
-			"parent": 18
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 20
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 21
+			"parent": 19
 		}, 
 		{
-			"name": "Bip01 R Toe0",
-			"parent": 22
+			"name": "Bip01 L Foot",
+			"parent": 17
 		}
 	],
 	"skins": 1,
@@ -689,15 +682,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "DM_Base.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "duke_misc.bmp",
-			"width": 64
+			"height": 510,
+			"name": "Fassassin_sheet.bmp",
+			"width": 512
 		}
 	],
 	"version": 10
