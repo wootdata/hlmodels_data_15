@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rohani_sc50
+Source Model Hash : 58bf78da153bcfd26ee160e81c1e7655
+Source Model Date : 1454032926 (2016/01/28)
+
+Ported Model Name : rohani_sc50_v1sc
+Ported Model Hash : 440ce99e07e41d58f5d1bcda9b2b9ebc
+Ported Model Date : 1752492220 (2025/07/14)

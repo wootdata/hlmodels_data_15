@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : toon_engineer_c
+Source Model Hash : 130869a5e7a68ac5ce449eab8ada864a
+Source Model Date : 1240097010 (2009/04/18)
+
+Ported Model Name : toon_engineer_c_v1sc
+Ported Model Hash : 2b17863c8d5ff39f3379f7c7840db37a
+Ported Model Date : 1752492430 (2025/07/14)

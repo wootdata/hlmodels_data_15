@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pac-man_sfxt_clas_v2
+Source Model Hash : 5d298c2adbade2589042737b50a64a52
+Source Model Date : 1702583192 (2023/12/14)
+
+Ported Model Name : pac-man_sfxt_clas_v2sc
+Ported Model Hash : e7759fa1bda05e7cb76014de820bf5f5
+Ported Model Date : 1752492141 (2025/07/14)

@@ -1,0 +1,19 @@
+*Kfu's TF2 Spy look a like
+Well, this is a model iÅLve made from scratch. Is a look a like of the Spy from Team Fortress 2. 
+I know, itÅLs not perfect, and itÅLs based on the beta version of the spy. Anyway, i did the model except for the hands.
+Hope you like it!
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tf2spy
+Source Model Hash : 0f4b71cf6e11cec8bb5ab9e7829a1569
+Source Model Date : 1267352362 (2010/02/28)
+
+Ported Model Name : tf2spy_v1sc
+Ported Model Hash : 9d09074f9f76591cdc3c0ada70737efa
+Ported Model Date : 1752492403 (2025/07/14)

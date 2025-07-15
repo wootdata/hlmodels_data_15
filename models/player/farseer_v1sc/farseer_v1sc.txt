@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : farseer
+Source Model Hash : 12652d95deddc481332b06cbf15579c6
+Source Model Date : 1263576530 (2010/01/15)
+
+Ported Model Name : farseer_v1sc
+Ported Model Hash : fcc12be0f904dc19fc421b2eda44f1e6
+Ported Model Date : 1752491644 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : peachfires3c
+Source Model Hash : 014e3c174469d03aadee189187a18b4c
+Source Model Date : 1681842713 (2023/04/18)
+
+Ported Model Name : peachfires3c_v1sc
+Ported Model Hash : adf23dca4c39ade5c188ca7965f8fd13
+Ported Model Date : 1752492151 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ms._pc_punisher
+Source Model Hash : cb423b177351dc17d15f9c601bb1840a
+Source Model Date : 1590890325 (2020/05/30)
+
+Ported Model Name : ms._pc_punisher_v1sc
+Ported Model Hash : 67326015ee3e72c6fb5c66e2fd575768
+Ported Model Date : 1752492047 (2025/07/14)

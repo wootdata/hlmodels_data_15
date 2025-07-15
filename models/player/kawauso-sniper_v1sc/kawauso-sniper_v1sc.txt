@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kawauso-sniper
+Source Model Hash : 3f75040a370e282a9526234b89b6b326
+Source Model Date : 1263497114 (2010/01/14)
+
+Ported Model Name : kawauso-sniper_v1sc
+Ported Model Hash : fe3b24d9e7a8284d0cea3ad9c8daa5f5
+Ported Model Date : 1752491874 (2025/07/14)

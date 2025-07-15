@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gir_dogsuit_v2
+Source Model Hash : 86f2b19e59f1b915d7d523173bb67495
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : gir_dogsuit_v2sc
+Ported Model Hash : 724442156beeb9cb4c059a42d6dfe4cd
+Ported Model Date : 1752491702 (2025/07/14)

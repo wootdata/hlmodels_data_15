@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : security_wheelchair
+Source Model Hash : d2f6e7fb38081d53ffc71862c50c9b7d
+Source Model Date : 1455816638 (2016/02/18)
+
+Ported Model Name : security_wheelc_v1sc
+Ported Model Hash : f65128595e1b63a8ba5b7f6c9fd91b6a
+Ported Model Date : 1752492257 (2025/07/14)

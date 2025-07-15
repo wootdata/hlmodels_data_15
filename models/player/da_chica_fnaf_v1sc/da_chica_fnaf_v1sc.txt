@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_chica_fnaf
+Source Model Hash : bfd53dd4b93f5adc0d9f8eedbaa1e406
+Source Model Date : 1579695394 (2020/01/22)
+
+Ported Model Name : da_chica_fnaf_v1sc
+Ported Model Hash : f936ed067520a01abf082acd52d2be5d
+Ported Model Date : 1752491584 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kobold3
+Source Model Hash : 3a71937a1910255a31d09dee627dcc18
+Source Model Date : 1579984167 (2020/01/25)
+
+Ported Model Name : kobold3_v1sc
+Ported Model Hash : 7dd374264199ec981b494eaa984e0f45
+Ported Model Date : 1752491905 (2025/07/14)

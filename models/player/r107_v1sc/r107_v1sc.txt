@@ -1,0 +1,47 @@
+13:11 28/08/2005
+
+--------------------------------------------
+Time Splitter's R -107 player model
+--------------------------------------------
+
+
+-Models:
+
+Main body Model: Unknow (If somebody knows who made the sam fisher model please send a pm to me)
+Adds: Renard	
+       
+
+-Textures:
+
+Model Skin: Renard
+
+
+-Misc.
+
+Animations: SC team (shannon candwell?)
+Reference: Freeradical
+Compile: Renard
+Render: Renard
+
+
+
+
+
+
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : r107
+Source Model Hash : 24aec3f0999155c071de60cb53d48db9
+Source Model Date : 1269241017 (2010/03/21)
+
+Ported Model Name : r107_v1sc
+Ported Model Hash : 568446c58e5a25697d8f082cafeffbf0
+Ported Model Date : 1752492183 (2025/07/14)

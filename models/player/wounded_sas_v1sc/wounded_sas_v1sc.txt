@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wounded_sas
+Source Model Hash : 62593b1d34e8a9b67b2e958001f5ed1b
+Source Model Date : 1264529447 (2010/01/26)
+
+Ported Model Name : wounded_sas_v1sc
+Ported Model Hash : 0bbbc352cd1788d4e83ff6f69ed78ede
+Ported Model Date : 1752492512 (2025/07/14)

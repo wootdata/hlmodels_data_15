@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cyborg_ninja_red
+Source Model Hash : fed0b25e738ea759af3c42770710fb1a
+Source Model Date : 1236892428 (2009/03/12)
+
+Ported Model Name : cyborg_ninja_red_v1sc
+Ported Model Hash : 5197349049eb8b4ae9d2a10234a23ac3
+Ported Model Date : 1752491574 (2025/07/14)

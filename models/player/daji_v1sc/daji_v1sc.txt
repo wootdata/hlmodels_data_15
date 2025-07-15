@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : daji
+Source Model Hash : b8a29e06d62396c729e36e17e60c1ae3
+Source Model Date : 1478177422 (2016/11/03)
+
+Ported Model Name : daji_v1sc
+Ported Model Hash : a977b96a291e5ff9dc564f3da9c440b4
+Ported Model Date : 1752491576 (2025/07/14)

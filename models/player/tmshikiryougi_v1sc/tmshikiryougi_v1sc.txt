@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tmshikiryougi
+Source Model Hash : 65ddadf809e9215c764bb72987b92072
+Source Model Date : 1615109342 (2021/03/07)
+
+Ported Model Name : tmshikiryougi_v1sc
+Ported Model Hash : a63f31541c3a7a86de8c81c9c9629b72
+Ported Model Date : 1752492424 (2025/07/14)

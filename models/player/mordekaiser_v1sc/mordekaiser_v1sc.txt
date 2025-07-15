@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mordekaiser
+Source Model Hash : fae2a542b90564ecd1d98bae2d179a17
+Source Model Date : 1466428612 (2016/06/20)
+
+Ported Model Name : mordekaiser_v1sc
+Ported Model Hash : b23f443839b75165b47bef33aa53346c
+Ported Model Date : 1752492042 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : koyomi_mizuhara
+Source Model Hash : be1a83d50d05dacca343d504ae3d93f2
+Source Model Date : 1710351349 (2024/03/13)
+
+Ported Model Name : koyomi_mizuhara_v1sc
+Ported Model Hash : a8e0e764fd3ee2e53107506110e17663
+Ported Model Date : 1752491909 (2025/07/14)

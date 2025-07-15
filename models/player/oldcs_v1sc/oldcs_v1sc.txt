@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : oldcs
+Source Model Hash : fe8548d6b3c7ae1415b5954589032173
+Source Model Date : 1264754954 (2010/01/29)
+
+Ported Model Name : oldcs_v1sc
+Ported Model Hash : c630e0366a6f16ae99d521acdb25add5
+Ported Model Date : 1752492114 (2025/07/14)

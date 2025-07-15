@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : maniac
+Source Model Hash : 0f572b7e8f40c38bfcfc66d0a983d14b
+Source Model Date : 1590884670 (2020/05/30)
+
+Ported Model Name : maniac_v1sc
+Ported Model Hash : 4857ead144f366abaa36a3db086a2f6e
+Ported Model Date : 1752491984 (2025/07/14)

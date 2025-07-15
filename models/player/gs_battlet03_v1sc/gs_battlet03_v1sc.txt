@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gs_battlet03
+Source Model Hash : 15117c071ed7635532c219d2f0f15bc0
+Source Model Date : 1454776774 (2016/02/06)
+
+Ported Model Name : gs_battlet03_v1sc
+Ported Model Hash : c14ae76e34be0f4d1ffa678bcf80df1b
+Ported Model Date : 1752491745 (2025/07/14)

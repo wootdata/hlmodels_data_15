@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_afg_3
+Source Model Hash : e9325f7d1a466c5945faee30a266c587
+Source Model Date : 1282979540 (2010/08/28)
+
+Ported Model Name : mw2_afg_3_v1sc
+Ported Model Hash : 5be1557a353e14e42db99b84f4245c68
+Ported Model Date : 1752492049 (2025/07/14)

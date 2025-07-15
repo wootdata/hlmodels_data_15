@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jacque
+Source Model Hash : 2dab049d7f61d77eeb7af9b2aa7b8e78
+Source Model Date : 1237217846 (2009/03/16)
+
+Ported Model Name : jacque_v1sc
+Ported Model Hash : 676bbf5abe962d01602ed88e80a96619
+Ported Model Date : 1752491857 (2025/07/14)

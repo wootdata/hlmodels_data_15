@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stormtrooper_commander
+Source Model Hash : 2215e2ca5be673ef304fd09cbfdfb9b2
+Source Model Date : 1654592900 (2022/06/07)
+
+Ported Model Name : stormtrooper_cmdr_v1sc
+Ported Model Hash : 1ac6259d0dd869812ce3ebc3a3bf25a5
+Ported Model Date : 1752492347 (2025/07/14)

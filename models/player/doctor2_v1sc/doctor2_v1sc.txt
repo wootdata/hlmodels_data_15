@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : doctor2
+Source Model Hash : aa99e724ca59738080f1ca63ae95bbfc
+Source Model Date : 1426513180 (2015/03/16)
+
+Ported Model Name : doctor2_v1sc
+Ported Model Hash : d437d990dabb6313b271089764c65c4f
+Ported Model Date : 1752491609 (2025/07/14)

@@ -1,0 +1,16 @@
+来自文文的思想：希望今天晚上的活动可以使用到我以前全部绑过得模型。 (w)
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_honmeirin
+Source Model Hash : 425925c0ec90de8880ffad841fd9f778
+Source Model Date : 1547887807 (2019/01/19)
+
+Ported Model Name : touhou_honmeirin_v1sc
+Ported Model Hash : 2779d509b685f17a331f94ec868fae31
+Ported Model Date : 1752492438 (2025/07/14)

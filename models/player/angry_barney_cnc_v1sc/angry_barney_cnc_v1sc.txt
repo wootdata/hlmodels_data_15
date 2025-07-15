@@ -1,0 +1,43 @@
+Unmasked Barney - Half-Life Model
+---------------------------------
+Modeler: PeRcY
+Email: percy3000@gmx.net
+ICQ # 89565962
+
+This is the barney without his stuff like the vest or the helmet..
+
+
+
+9/02/07:    
+Angry Unmasked Barney -=CNC Version=-  (unm_barney.mdl used as a base)
+  
+Face: Cleaned up, realigned and modified original face texture (He's mad, now! Watch out!) 
+Jacket & sleaves: my original textures
+Pants: modified from a zombie GTA:VC(PC) Tommy skin (unknown author)
+Shoes: unmodified from original
+Hands: modified existing (didn't help much)
+Model architecture: unmodified
+
+
+1/03/09:
+Original unm_barney model converted to 4.0b animations by Sven Co-op team.
+
+NOTE: see "readme.txt" for original author credits
+
+
+-Marb750
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : angry_barney_cnc
+Source Model Hash : f155a5042340f6beb9082b990127babc
+Source Model Date : 1231219016 (2009/01/05)
+
+Ported Model Name : angry_barney_cnc_v1sc
+Ported Model Hash : a07eea782bb92c155b8d32ac23a49d33
+Ported Model Date : 1752491363 (2025/07/14)

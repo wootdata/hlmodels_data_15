@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : byakuya
+Source Model Hash : ac4f61375587bf3930f9043f018d84b3
+Source Model Date : 1276914644 (2010/06/18)
+
+Ported Model Name : byakuya_v1sc
+Ported Model Hash : d70900fcb234c2c38f2027163aeacb28
+Ported Model Date : 1752491457 (2025/07/14)

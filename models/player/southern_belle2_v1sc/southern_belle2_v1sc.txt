@@ -1,0 +1,21 @@
+Model: Southern_Belle2
+Author: [W2H]PC Punisher
+Released: 04/13/2000
+Size:183kb
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : southern_belle2
+Source Model Hash : 64cebfc6c4ba4cc104b50af5fa86ddc7
+Source Model Date : 1591304543 (2020/06/04)
+
+Ported Model Name : southern_belle2_v1sc
+Ported Model Hash : 3448672802dfbc408be1cc56ea46aa06
+Ported Model Date : 1752492297 (2025/07/14)

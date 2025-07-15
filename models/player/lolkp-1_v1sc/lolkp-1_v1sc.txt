@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lolkp-1
+Source Model Hash : 38924dfa84d0c69b398b1c7eec9ae81c
+Source Model Date : 1626530340 (2021/07/17)
+
+Ported Model Name : lolkp-1_v1sc
+Ported Model Hash : 3c6900d58874e3b32dd3131634ec034f
+Ported Model Date : 1752491958 (2025/07/14)

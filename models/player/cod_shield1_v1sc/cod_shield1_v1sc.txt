@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod_shield1
+Source Model Hash : 5c50e8740810d149fe815c1cf2b5e48b
+Source Model Date : 1477182796 (2016/10/22)
+
+Ported Model Name : cod_shield1_v1sc
+Ported Model Hash : d2277bdf7d72dfca2632d813f4e52113
+Ported Model Date : 1752491500 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vergil_dmc
+Source Model Hash : 3b18cf09c2483fb34ce87b4a3cd08fd7
+Source Model Date : 1443786985 (2015/10/02)
+
+Ported Model Name : vergil_dmc_v1sc
+Ported Model Hash : 0f5913d20bb4cabdb4ab86d0d9f2a48a
+Ported Model Date : 1752492492 (2025/07/14)

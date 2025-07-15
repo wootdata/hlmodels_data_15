@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : eirin
+Source Model Hash : b75899ce65593a72554cf6f8b105298a
+Source Model Date : 1343225584 (2012/07/25)
+
+Ported Model Name : eirin_v1sc
+Ported Model Hash : e437003f74e06e2bd2601dbf4a60dff0
+Ported Model Date : 1752491630 (2025/07/14)

@@ -1,0 +1,24 @@
+Model hecho por Freakazoid! (podés encontrarme como Lugard)
+Objeto y textura extraídos de Digimon Masters por Key0808.
+Animaciones para el Sven Coop 4.8 con una animación personalizada.
+
+---------------------------------------------------------------
+
+Model made by Freakazoid! (aka Lugard)
+Mesh and textures extracted from Digimon Masters by Key0808.
+Animations made for Sven Coop 4.8 with one custom animation.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : beelzemon
+Source Model Hash : 12755335d17dbd52014b5697fc5a7325
+Source Model Date : 1466788727 (2016/06/24)
+
+Ported Model Name : beelzemon_v1sc
+Ported Model Hash : be99fd8659641a97111f4cc7907a05ce
+Ported Model Date : 1752491423 (2025/07/14)

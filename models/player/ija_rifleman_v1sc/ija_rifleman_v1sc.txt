@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ija_rifleman
+Source Model Hash : a4f0a206ebaafa68186dde368b7d8e6e
+Source Model Date : 1230746446 (2008/12/31)
+
+Ported Model Name : ija_rifleman_v1sc
+Ported Model Hash : b8cf742f7aca9cd0c1c8c0595f44fc66
+Ported Model Date : 1752491843 (2025/07/14)

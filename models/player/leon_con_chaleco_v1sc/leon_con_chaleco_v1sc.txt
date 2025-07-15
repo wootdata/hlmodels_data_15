@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : leon_con_chaleco
+Source Model Hash : 66ada070fe148a746efd667c6bed189f
+Source Model Date : 1422939126 (2015/02/02)
+
+Ported Model Name : leon_con_chaleco_v1sc
+Ported Model Hash : bfde293b803b4e366c0261d72256b232
+Ported Model Date : 1752491947 (2025/07/14)

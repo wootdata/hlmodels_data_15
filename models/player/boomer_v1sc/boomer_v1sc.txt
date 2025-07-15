@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : boomer
+Source Model Hash : ff1bc800100c5e8f094bf3a5b4f9fe0b
+Source Model Date : 1237563328 (2009/03/20)
+
+Ported Model Name : boomer_v1sc
+Ported Model Hash : 3e61c113d22c79189c72825ac251072d
+Ported Model Date : 1752491444 (2025/07/14)

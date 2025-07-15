@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : super_hero_v2
+Source Model Hash : f8f29247470610093f2eccac86a8a4ae
+Source Model Date : 1591330766 (2020/06/04)
+
+Ported Model Name : super_hero_v2sc
+Ported Model Hash : 2419a3ec843f32360a24939a0eed6478
+Ported Model Date : 1752492352 (2025/07/14)

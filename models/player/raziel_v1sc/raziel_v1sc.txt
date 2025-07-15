@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : raziel
+Source Model Hash : 2b36ab03c42a50b92598fe5e9b89676a
+Source Model Date : 1591055388 (2020/06/01)
+
+Ported Model Name : raziel_v1sc
+Ported Model Hash : 6cf5fa055437aa7dcd7624dfdd8cdf20
+Ported Model Date : 1752492190 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dangeroustoy2
+Source Model Hash : 3484af9cb3cbfbc42f7d3e6b0f8f7268
+Source Model Date : 1590114999 (2020/05/21)
+
+Ported Model Name : dangeroustoy2_v1sc
+Ported Model Hash : 8eb30018249357b6813090b32dd32ef5
+Ported Model Date : 1752491577 (2025/07/14)

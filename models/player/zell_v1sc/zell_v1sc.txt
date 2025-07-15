@@ -1,0 +1,22 @@
+Zell Dincht
+from Final Fantisy 8
+
+Author: Da[\]iel (simba273@home.com)
+Triangles: 577
+Skin size: 1x256x256, 1x128x128
+Build time: About one week
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zell
+Source Model Hash : 5bab4360f82ecc7f86370c7377b0cf72
+Source Model Date : 1263322266 (2010/01/12)
+
+Ported Model Name : zell_v1sc
+Ported Model Hash : fd06a54bc928bb65e66830380f55e862
+Ported Model Date : 1752492528 (2025/07/14)

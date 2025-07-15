@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : th_jack
+Source Model Hash : 8c493d6e96162deb53be69c092c42abc
+Source Model Date : 1579696460 (2020/01/22)
+
+Ported Model Name : th_jack_v1sc
+Ported Model Hash : 3b2e677242c237bd118250f8a999f7f0
+Ported Model Date : 1752492418 (2025/07/14)

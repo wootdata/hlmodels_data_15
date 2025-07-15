@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : p2dude
+Source Model Hash : 9e7c36b05af42386944d4c9d5be1de85
+Source Model Date : 1669589404 (2022/11/27)
+
+Ported Model Name : p2dude_v1sc
+Ported Model Hash : f941c4fceb609c6cae4beb17cb8f5cd3
+Ported Model Date : 1752492139 (2025/07/14)

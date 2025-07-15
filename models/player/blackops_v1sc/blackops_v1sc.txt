@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blackops
+Source Model Hash : b26598afafb6c4a7219fa47df3401d7a
+Source Model Date : 1565115626 (2019/08/06)
+
+Ported Model Name : blackops_v1sc
+Ported Model Hash : 01a655cecbc6ef66856f03e20e73fba4
+Ported Model Date : 1752491433 (2025/07/14)

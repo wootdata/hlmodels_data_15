@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : penguins_v2
+Source Model Hash : fc8294de67788ee0bdd67029a288aa29
+Source Model Date : 1590965789 (2020/05/31)
+
+Ported Model Name : penguins_v2sc
+Ported Model Hash : 2e08c0a7b754cbc35bf5761dd3e7b2b8
+Ported Model Date : 1752492153 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : limerick_knight
+Source Model Hash : 540789a2597510f2f3886629550cb0a7
+Source Model Date : 1740293978 (2025/02/22)
+
+Ported Model Name : limerick_knight_v1sc
+Ported Model Hash : 7258b233c46d6282c6e1483eba61cd3f
+Ported Model Date : 1752491952 (2025/07/14)

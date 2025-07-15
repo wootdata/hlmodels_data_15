@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mrunknown
+Source Model Hash : 1e33a72eff53993b857da69a96ceb281
+Source Model Date : 1317931624 (2011/10/06)
+
+Ported Model Name : mrunknown_v1sc
+Ported Model Hash : d4b5077d2b1d756cc51a25e6dda74cd5
+Ported Model Date : 1752492046 (2025/07/14)

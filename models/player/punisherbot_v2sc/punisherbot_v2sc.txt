@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : punisherbot_v2
+Source Model Hash : 68402c16c91e60e034661f4d3e2fee83
+Source Model Date : 1583385766 (2020/03/04)
+
+Ported Model Name : punisherbot_v2sc
+Ported Model Hash : 70b832311fa1c80e3abdf6ea36122225
+Ported Model Date : 1752492173 (2025/07/14)

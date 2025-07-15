@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nekomata_smile_v2
+Source Model Hash : 36fa680e33e751a1d2b42c149408ae1a
+Source Model Date : 1583401929 (2020/03/05)
+
+Ported Model Name : nekomata_smile_v2sc
+Ported Model Hash : 662d18e375a0a1b9a2189276ec282a91
+Ported Model Date : 1752492081 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : whok
+Source Model Hash : bfd4f8bc8426109e7140f022597aa571
+Source Model Date : 1445930288 (2015/10/27)
+
+Ported Model Name : whok_v1sc
+Ported Model Hash : bc0c664265bfc951b5a6ee7904434060
+Ported Model Date : 1752492509 (2025/07/14)

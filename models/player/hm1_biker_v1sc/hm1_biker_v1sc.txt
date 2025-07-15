@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hm1_biker
+Source Model Hash : c8ca70e7eb0b7411adfb3e76689e2b62
+Source Model Date : 1611704117 (2021/01/26)
+
+Ported Model Name : hm1_biker_v1sc
+Ported Model Hash : 09125e0de04a3b8b36fde46bace6936d
+Ported Model Date : 1752491809 (2025/07/14)

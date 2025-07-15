@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : p0cketchange
+Source Model Hash : d9a850f75478eccdbbf50c2ad126f04f
+Source Model Date : 1567290537 (2019/08/31)
+
+Ported Model Name : p0cketchange_v1sc
+Ported Model Hash : 33883ecd8f535eb89eb6e093b44d59c8
+Ported Model Date : 1752492139 (2025/07/14)

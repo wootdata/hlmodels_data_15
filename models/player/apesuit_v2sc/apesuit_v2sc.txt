@@ -1,0 +1,17 @@
+Bug animation:
+foot buried
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : apesuit_v2
+Source Model Hash : 8a1d5e518fdf12f93463d7c9da08b1c5
+Source Model Date : 1583608317 (2020/03/07)
+
+Ported Model Name : apesuit_v2sc
+Ported Model Hash : a32a39285c6f1aa56bc4d17e81df5482
+Ported Model Date : 1752491364 (2025/07/14)

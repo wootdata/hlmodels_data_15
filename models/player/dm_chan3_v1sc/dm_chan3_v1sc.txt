@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dm_chan3
+Source Model Hash : f0097a9e81c298dcbd8a1dc9df2e9b38
+Source Model Date : 1432277304 (2015/05/21)
+
+Ported Model Name : dm_chan3_v1sc
+Ported Model Hash : bfb3c72788d32306f42555861c6756bd
+Ported Model Date : 1752491607 (2025/07/14)

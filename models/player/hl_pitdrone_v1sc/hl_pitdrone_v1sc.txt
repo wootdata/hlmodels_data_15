@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hl_pitdrone
+Source Model Hash : 62b56fca98aca8fcc15d102b1754ba8a
+Source Model Date : 1638740593 (2021/12/05)
+
+Ported Model Name : hl_pitdrone_v1sc
+Ported Model Hash : fd8f05679285bfc026ebaf94b30a37ed
+Ported Model Date : 1752491808 (2025/07/14)

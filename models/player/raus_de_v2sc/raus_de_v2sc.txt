@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : raus_de_v2
+Source Model Hash : a634364839a9c0f54289142a69e53f04
+Source Model Date : 1470061669 (2016/08/01)
+
+Ported Model Name : raus_de_v2sc
+Ported Model Hash : e4460c3fb9c5cdbe3cd5e55a894b548f
+Ported Model Date : 1752492188 (2025/07/14)

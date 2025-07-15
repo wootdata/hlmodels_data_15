@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ab_harry_mason
+Source Model Hash : f65bfb3012f508bd2f2caf82ebd28e1b
+Source Model Date : 1599263966 (2020/09/04)
+
+Ported Model Name : ab_harry_mason_v1sc
+Ported Model Hash : c8c972b8630949bab80b7a10a0ec3c04
+Ported Model Date : 1752491329 (2025/07/14)

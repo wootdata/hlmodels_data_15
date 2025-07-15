@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mega_zero
+Source Model Hash : 025b652e9424436418e3dbf983ccf3a9
+Source Model Date : 1476153366 (2016/10/10)
+
+Ported Model Name : mega_zero_v1sc
+Ported Model Hash : aa83adfdc5943477459a3a1f6a6ab8df
+Ported Model Date : 1752492000 (2025/07/14)

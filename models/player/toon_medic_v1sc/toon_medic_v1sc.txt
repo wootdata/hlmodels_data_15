@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : toon_medic
+Source Model Hash : 2b51f7795ef488312d9f96839d6f288f
+Source Model Date : 1240097068 (2009/04/18)
+
+Ported Model Name : toon_medic_v1sc
+Ported Model Hash : b090c601f9c68f5075c549d062955cd4
+Ported Model Date : 1752492431 (2025/07/14)

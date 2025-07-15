@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : johnnybravo
+Source Model Hash : 72cd04ca7ee68db8ee10dc97154ac75d
+Source Model Date : 1590872509 (2020/05/30)
+
+Ported Model Name : johnnybravo_v1sc
+Ported Model Hash : 10206f53392152581f28c2c1af494e40
+Ported Model Date : 1752491864 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : boss
+Source Model Hash : a89513b0c4003c35a859df2d25814718
+Source Model Date : 1268071011 (2010/03/08)
+
+Ported Model Name : boss_v1sc
+Ported Model Hash : 4adee0b1c3c92310d35d5afc0b2fc9f4
+Ported Model Date : 1752491445 (2025/07/14)

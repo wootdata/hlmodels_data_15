@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zita
+Source Model Hash : 9b410a45f1908f1fecf1c05f4548faa3
+Source Model Date : 1549825976 (2019/02/10)
+
+Ported Model Name : zita_v1sc
+Ported Model Hash : 1b5ef1e294de5b9a3231c51552cb3494
+Ported Model Date : 1752492529 (2025/07/14)

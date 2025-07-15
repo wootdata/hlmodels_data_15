@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : quakeguy_vo
+Source Model Hash : ff11926214508d54024c16df1f22e3fb
+Source Model Date : 1702584204 (2023/12/14)
+
+Ported Model Name : quakeguy_vo_v1sc
+Ported Model Hash : fc9727b0759e735ebefe5934a9c3e06f
+Ported Model Date : 1752492179 (2025/07/14)

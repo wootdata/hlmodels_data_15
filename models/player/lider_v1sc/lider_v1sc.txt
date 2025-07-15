@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lider
+Source Model Hash : 7e096e7b07dc2d6e4a0bd68d1575fd4d
+Source Model Date : 1277816040 (2010/06/29)
+
+Ported Model Name : lider_v1sc
+Ported Model Hash : bb75b756f7af694681dca72dc895a72c
+Ported Model Date : 1752491951 (2025/07/14)

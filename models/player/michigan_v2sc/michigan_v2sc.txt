@@ -1,0 +1,49 @@
+7-21-99
+
+================================================================
+
+Model Name              : Michigan
+
+Author                  : Brian "EvilBastard" Collins
+
+Email Address           : Evilb@planetquake.com
+
+Website Address         : http://www.planetquake.com/polycount/cottages/EvilB
+
+Model description       : 
+
+	Big guy, cigar.
+
+
+================================================================
+
+
+* Construction *
+
+Poly Count              : 766 tris.md2 
+
+Skin Count              : 1 DM
+
+Editor used             : 
+		Modeling - lightwave	
+		Skining  - NST
+		Painting - Photoshop, NST
+
+Known Bugs              : None that i know of.
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : michigan_v2
+Source Model Hash : 0494254c4b3173447b1a47460685d2f2
+Source Model Date : 1590888682 (2020/05/30)
+
+Ported Model Name : michigan_v2sc
+Ported Model Hash : e41c1715eeab79c4985fa90f266987c6
+Ported Model Date : 1752492015 (2025/07/14)

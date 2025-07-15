@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lilbitty
+Source Model Hash : 5a812eaed431330c328817f6d8fd235c
+Source Model Date : 1429516911 (2015/04/20)
+
+Ported Model Name : lilbitty_v1sc
+Ported Model Hash : c45301f4d3fd31ba15acbc6cfc470cab
+Ported Model Date : 1752491952 (2025/07/14)

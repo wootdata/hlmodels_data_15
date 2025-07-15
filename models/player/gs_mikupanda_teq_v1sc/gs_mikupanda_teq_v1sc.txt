@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gs_mikupanda_teq
+Source Model Hash : 9eecdb223ff06c851b2fc35bce88a1aa
+Source Model Date : 1621992182 (2021/05/25)
+
+Ported Model Name : gs_mikupanda_teq_v1sc
+Ported Model Hash : c3cfd8fd5e833dd8f05ac8ddc28a84bb
+Ported Model Date : 1752491749 (2025/07/14)

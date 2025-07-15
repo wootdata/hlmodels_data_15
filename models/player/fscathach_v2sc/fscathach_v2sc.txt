@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fscathach_v2
+Source Model Hash : 365da436b2405dab79cdff0352332b37
+Source Model Date : 1638359748 (2021/12/01)
+
+Ported Model Name : fscathach_v2sc
+Ported Model Hash : 5db37be9c75b1d94120f96496afa5584
+Ported Model Date : 1752491662 (2025/07/14)

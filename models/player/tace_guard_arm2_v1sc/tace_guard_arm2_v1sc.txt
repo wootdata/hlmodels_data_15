@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_e_guard_armor2
+Source Model Hash : 650cb64ee60c4c549eb47a0d6bda0d43
+Source Model Date : 1630953407 (2021/09/06)
+
+Ported Model Name : tace_guard_arm2_v1sc
+Ported Model Hash : e0c74a5d01b5b4f89f65ed9d93f4a9bd
+Ported Model Date : 1752492371 (2025/07/14)

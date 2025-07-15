@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bluesteel_v2
+Source Model Hash : 953c4b285dd6529bf9bbf2ea7b748a49
+Source Model Date : 1582891130 (2020/02/28)
+
+Ported Model Name : bluesteel_v2sc
+Ported Model Hash : 99f5fc0dd3c6aaf2e6aa0fd0a7215e94
+Ported Model Date : 1752491438 (2025/07/14)

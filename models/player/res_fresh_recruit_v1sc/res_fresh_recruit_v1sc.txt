@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_succ_fresh_recruit
+Source Model Hash : e2be60c6ee1598b4c13203db15fbc2dd
+Source Model Date : 1487494353 (2017/02/19)
+
+Ported Model Name : res_fresh_recruit_v1sc
+Ported Model Hash : a7348ab42f07b57ae0fde86215fce739
+Ported Model Date : 1752492212 (2025/07/14)

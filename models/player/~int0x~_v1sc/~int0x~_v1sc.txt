@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ~int0x~
+Source Model Hash : b3943809400a7b5a7aa46f56a863c505
+Source Model Date : 1590367141 (2020/05/24)
+
+Ported Model Name : ~int0x~_v1sc
+Ported Model Hash : 2da6aec7f05e9ac7d1e6aa8e32e23eab
+Ported Model Date : 1752492543 (2025/07/14)

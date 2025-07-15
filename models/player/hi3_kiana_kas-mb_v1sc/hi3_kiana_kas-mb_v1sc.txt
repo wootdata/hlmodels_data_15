@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hi3_kiana_kaslana-mb
+Source Model Hash : ed721e8e984df06141ff8e4c81d1f68e
+Source Model Date : 1569477505 (2019/09/25)
+
+Ported Model Name : hi3_kiana_kas-mb_v1sc
+Ported Model Hash : 85c6a994751d5480199d260732b19e1c
+Ported Model Date : 1752491793 (2025/07/14)

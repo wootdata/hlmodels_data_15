@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bmrftruck
+Source Model Hash : 4e6340acdfcfb30cb15d8960d0c017c2
+Source Model Date : 1192364390 (2007/10/14)
+
+Ported Model Name : bmrftruck_v1sc
+Ported Model Hash : ef929d20c97ce52bb352d3b7163ce20a
+Ported Model Date : 1752491439 (2025/07/14)

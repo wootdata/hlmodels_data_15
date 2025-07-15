@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dante2
+Source Model Hash : dfa17098a9d82c7941c85f1d8b4bf05a
+Source Model Date : 1236517494 (2009/03/08)
+
+Ported Model Name : dante2_v1sc
+Ported Model Hash : e076fe734703a6106295cb95f8ee800d
+Ported Model Date : 1752491577 (2025/07/14)

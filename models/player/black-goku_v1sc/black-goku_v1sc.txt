@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : black-goku
+Source Model Hash : d0c340144496439bc2b98bbeabed5be2
+Source Model Date : 1477779124 (2016/10/29)
+
+Ported Model Name : black-goku_v1sc
+Ported Model Hash : 0d947c4098f3f054c7f47c0bb4809a9f
+Ported Model Date : 1752491432 (2025/07/14)
