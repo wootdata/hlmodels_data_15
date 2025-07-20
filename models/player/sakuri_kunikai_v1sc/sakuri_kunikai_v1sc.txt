@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sakuri_kunikai
+Source Model Hash : 1de1befac69fec2dd292c08160ab4a12
+Source Model Date : 1752949734 (2025/07/19)
+
+Ported Model Name : sakuri_kunikai_v1sc
+Ported Model Hash : a21c9e6af511ac297092ddbd418ca61b
+Ported Model Date : 1752991539 (2025/07/19)
