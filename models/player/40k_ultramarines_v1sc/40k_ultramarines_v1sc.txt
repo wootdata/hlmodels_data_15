@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 40k_ultramarines
+Source Model Hash : a2a27ddd251d1d5adba9d54e77eb06f8
+Source Model Date : 1740306477 (2025/02/23)
+
+Ported Model Name : 40k_ultramarines_v1sc
+Ported Model Hash : f9a795737b4374c3b5ecf4b8ac4a73ea
+Ported Model Date : 1758225722 (2025/09/18)

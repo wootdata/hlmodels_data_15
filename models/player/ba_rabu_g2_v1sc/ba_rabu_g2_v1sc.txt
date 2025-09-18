@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ba_rabu_g2
+Source Model Hash : 2a6adeed91f37eb214a2cd82c31a5ed7
+Source Model Date : 1746433106 (2025/05/05)
+
+Ported Model Name : ba_rabu_g2_v1sc
+Ported Model Hash : 3e53360ee0f63350b9aa6d30dd56803b
+Ported Model Date : 1758225727 (2025/09/18)

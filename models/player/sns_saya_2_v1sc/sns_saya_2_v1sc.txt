@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sns_saya_2
+Source Model Hash : e195ec12f3ffbdd9f974a36605e88116
+Source Model Date : 1737731019 (2025/01/24)
+
+Ported Model Name : sns_saya_2_v1sc
+Ported Model Hash : 96b892f23226bc5884531e30ed463c48
+Ported Model Date : 1758225769 (2025/09/18)
