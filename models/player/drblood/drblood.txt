@@ -1,0 +1,10 @@
+                       Dr Blood
+
+Another skin for Half-Life, Dr Blood, Lots of blood
+Hope you like it! 
+   
+
+INSTALLATION:  UNZIP INTO  halflife\valve\models\player\DrBlood folder
+
+
+         FYA    Marquis (m.haly@cwcom.net) 2/7/99
