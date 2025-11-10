@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : claire_elford_2d
+Source Model Hash : a3e64c040e149144140b73197b23b525
+Source Model Date : 1760684312 (2025/10/16)
+
+Ported Model Name : claire_elford_2d_v1sc
+Ported Model Hash : f2d983b441039a0ea10fea2705b914c4
+Ported Model Date : 1762777778 (2025/11/10)
