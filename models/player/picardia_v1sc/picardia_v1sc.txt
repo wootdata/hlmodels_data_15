@@ -1,0 +1,18 @@
+Playermodel made by: TayKlor (From HLDM-BR.NET)
+Design and 3D Model made by: DAZ Productions, Inc.
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : picardia
+Source Model Hash : 0979f68ed4e2a0b98c0d35f4e19e2b36
+Source Model Date : 1769302111 (2026/01/24)
+
+Ported Model Name : picardia_v1sc
+Ported Model Hash : e1eabce3a6d39cc618b3530753014f84
+Ported Model Date : 1780823045 (2026/06/07)
